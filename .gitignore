@@ -1,0 +1,17 @@
+# macos
+.DS_Store
+
+# bundler
+/.bundle/
+/vendor/bundle/
+
+# rubygems
+*.gem
+
+# rvm
+.ruby-version
+.ruby-gemset
+
+# yardoc
+/doc/
+/.yardoc/
